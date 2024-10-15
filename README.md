@@ -8,6 +8,8 @@
       <span class="emoji">🌱</span> I'm currently learning game programming, game design, and tools like Unity or Unreal Engine <br>
       <span class="emoji">💞️</span> I'm looking to collaborate on indie game projects, character creation, or innovative gameplay mechanics <br>
       <span class="emoji">📫</span> How to reach me: <a href="mailto:andreflourenco1999@gmail.com">andreflourenco1999@gmail.com</a> <br>
+      <span class="emoji">📘</span> Currently, I am learning about programming classes and Unreal <br>
+      <span class="emoji">🎨</span> Also, I'm learning to use Blender for rigging and 3D modeling
     </p>
   </body>
 </html>
