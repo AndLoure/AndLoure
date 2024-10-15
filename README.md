@@ -1,32 +1,5 @@
 <html>
   <head>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        background-color: #f4f4f9;
-        color: #333;
-        margin: 20px;
-      }
-      p {
-        background-color: #fff;
-        padding: 20px;
-        border-radius: 10px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        max-width: 600px;
-        line-height: 1.6;
-      }
-      a {
-        color: #007BFF;
-        text-decoration: none;
-      }
-      a:hover {
-        text-decoration: underline;
-      }
-      .emoji {
-        font-size: 1.5em;
-        margin-right: 10px;
-      }
-    </style>
   </head>
   <body>
     <p>
